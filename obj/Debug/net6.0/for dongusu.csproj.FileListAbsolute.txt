@@ -1,0 +1,15 @@
+C:\Users\OSMAN\for dongusu\bin\Debug\net6.0\for dongusu.exe
+C:\Users\OSMAN\for dongusu\bin\Debug\net6.0\for dongusu.deps.json
+C:\Users\OSMAN\for dongusu\bin\Debug\net6.0\for dongusu.runtimeconfig.json
+C:\Users\OSMAN\for dongusu\bin\Debug\net6.0\for dongusu.dll
+C:\Users\OSMAN\for dongusu\bin\Debug\net6.0\for dongusu.pdb
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.csproj.AssemblyReference.cache
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.AssemblyInfoInputs.cache
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.AssemblyInfo.cs
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.dll
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\refint\for dongusu.dll
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.pdb
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\for dongusu.genruntimeconfig.cache
+C:\Users\OSMAN\for dongusu\obj\Debug\net6.0\ref\for dongusu.dll
